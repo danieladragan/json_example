@@ -1,4 +1,5 @@
 {
+  "all": {
   "lights": {
     "kitchen" : 1,
     "bedroom" : 0,
@@ -17,4 +18,5 @@
     "bathroom": 1,
     "livingroom": 0
   }
+ }
 }
